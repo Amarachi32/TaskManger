@@ -51,7 +51,7 @@ namespace TaskManager
             //start
 
 
-/*            //Start a new process
+            //Start a new process
             WriteLine("Enter the name of the process to start: ");
             try
             {
@@ -64,11 +64,11 @@ namespace TaskManager
 
                 WriteLine(ex.Message);
             }
-            WriteLine();*/
+            WriteLine();
            
 
 
-          /*  //Create a custom process
+            //Create a custom process
             Process customProcess = new Process();
             WriteLine("Enter the name of the custom process to start: ");
             try
@@ -84,7 +84,7 @@ namespace TaskManager
 
                 WriteLine(ex.Message);
             }
-            WriteLine();*/
+            WriteLine();
 
             //Create a thread
             Thread thread = new Thread(Secondary);
