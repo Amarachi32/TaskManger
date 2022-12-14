@@ -1,0 +1,15 @@
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\bin\Debug\net6.0\TaskManger.exe
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\bin\Debug\net6.0\TaskManger.deps.json
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\bin\Debug\net6.0\TaskManger.runtimeconfig.json
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\bin\Debug\net6.0\TaskManger.dll
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\bin\Debug\net6.0\TaskManger.pdb
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\obj\Debug\net6.0\TaskManger.csproj.AssemblyReference.cache
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\obj\Debug\net6.0\TaskManger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\obj\Debug\net6.0\TaskManger.AssemblyInfoInputs.cache
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\obj\Debug\net6.0\TaskManger.AssemblyInfo.cs
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\obj\Debug\net6.0\TaskManger.csproj.CoreCompileInputs.cache
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\obj\Debug\net6.0\TaskManger.dll
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\obj\Debug\net6.0\refint\TaskManger.dll
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\obj\Debug\net6.0\TaskManger.pdb
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\obj\Debug\net6.0\TaskManger.genruntimeconfig.cache
+C:\Users\CHINENYE\Documents\amara\visual\PaymentInstall\TaskManger\TaskManger\obj\Debug\net6.0\ref\TaskManger.dll
